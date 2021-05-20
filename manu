@@ -1,3 +1,5 @@
+#Deploy docker application into docker container using jenkins pipeline script.
+
 node{
     
     def buildNumber = BUILD_NUMBER
